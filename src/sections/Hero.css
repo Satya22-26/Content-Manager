@@ -1,0 +1,36 @@
+@keyframes changeColor {
+    0%, 100% {
+      color: #00df9a;
+    }
+    25% {
+      color: #ffcc00;
+    }
+    50% {
+      color: #ff6666;
+    }
+    75% {
+      color: #3399ff;
+    }
+  }
+  
+  @keyframes moveText {
+    0%, 100% {
+      transform: translateX(0);
+    }
+    50% {
+      transform: translateX(-5px);
+    }
+  }
+  
+  .animated-text {
+    animation: changeColor 5s infinite, moveText 5s infinite;
+  }
+  
+ 
+  
+  @keyframes fadeIn {
+    to {
+      opacity: 1;
+    }
+  }
+  
