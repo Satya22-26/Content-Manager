@@ -2,6 +2,15 @@
 
 SkillForge is a dynamic Content Management Platform that empowers you to effortlessly generate captivating content across various channels. From Imagifyr for image generation to LinguaVersa for language translation, SkillForge has got you covered with a suite of tools to enhance your content creation experience.
 
+![Screenshot (63)](https://github.com/Satya22-26/Content-Manager/assets/137152552/d63ecc06-6af8-4078-a2b5-a2723c82c6bc)
+
+![image (2)](https://github.com/Satya22-26/Content-Manager/assets/137152552/1df915ff-07e5-4304-b1fc-4923b72dc2b3)
+
+![image (1)](https://github.com/Satya22-26/Content-Manager/assets/137152552/ab42746f-2721-4670-a8c2-ef6bf3f1bece)
+
+![image](https://github.com/Satya22-26/Content-Manager/assets/137152552/8ed20230-0229-478d-bb3d-f6ae5c567ff8)
+
+
 ## 🎨 Features
 
 ### Imagifyr - Image Generation 🌟
